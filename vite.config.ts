@@ -27,6 +27,7 @@ colors.forEach((color) => {
 
 export default defineConfig(() => {
   return {
+    base: './',
     resolve: {
       alias: {
         '~/': `${path.resolve(__dirname, 'src')}/`,
