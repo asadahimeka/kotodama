@@ -1,0 +1,1 @@
+import{p as v}from"./index.54956955.js";const s={geekzu:"https://sdn.geekzu.org/avatar/",v2ex:"https://cdn.v2ex.com/gravatar/",loli:"https://gravatar.loli.net/avatar/",cravatar:"https://cravatar.cn/avatar/"};function o(a,t=40,r="cravatar"){return`${s[r]}${a.includes("@")?v.exports(a):a}?s=${t}&r=G&d=`}export{o as g};

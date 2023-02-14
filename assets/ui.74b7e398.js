@@ -1,0 +1,1 @@
+import{d as s,q as t,h as r,o as n,c as a,s as u}from"./index.54956955.js";const d=s({__name:"ui",setup(c){const o=t(),e=u();return r(()=>{o.token?e.push("/dashboard"):e.push("/login")}),(p,_)=>(n(),a("div"))}});export{d as default};
